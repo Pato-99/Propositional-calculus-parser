@@ -2,7 +2,7 @@
 Parses formula from input and prints the truth table.
 
 Representations:  literals -> any uppercase letter
-                  negation -> '!'
+                  negation -> '!'\n
                   konjunction -> '*'
                   disjunction -> '+'
                   implication -> 'i'
